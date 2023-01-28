@@ -24,11 +24,11 @@ ________________________________________________________________________________
 
 Before running the API server, you should update the database config inside the application.properties file.
 
-Update the port number, username and password as per your local database config. server.port=8886
+Update the port number, username and password as per your local database config. server.port=8888
 
-API Root Endpoint https://localhost:8800/
+API Root Endpoint https://localhost:8888/
 
--http://localhost:8800/swagger-ui/
+-http://localhost:8888/swagger-ui/
 
 
 # Lessons Learned 
